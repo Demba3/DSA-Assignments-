@@ -1,6 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        // keeep track of the minimum value so far and cheack is selling on each days gives a better outcome.
+        // keep track of the minimum value so far and check if selling on each day after that gives a better outcome.
         int min = Integer.MAX_VALUE;
         int maxProfit = 0;
         int currProfit = 0;
