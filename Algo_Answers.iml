@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/BitManipulation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stack&amp;Queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HashMap" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
